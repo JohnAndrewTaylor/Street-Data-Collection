@@ -34,4 +34,7 @@ Searching for it in the app will bring it up, and from there data can be collect
 - Click "Replace..."
 - Replace all values of "No Issue" with 0, all "Non-Severe Issue" with 1, and "Severe Issue" with 2
 
+**To sort using the script**
+The script will need to be in the same folder as the CSV file (which should be named "input.csv"). To run the script, your computer will need to be able to run Python.
+
 *Feel free to contact the team if you have any issues with these steps*
