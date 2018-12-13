@@ -13,6 +13,7 @@ Searching for it in the app will bring it up, and from there data can be collect
 - Fill out all the required fields. The "No Issue" option is selected by default for any questions asking about potential problems.
 - Click "Save entry" when you are done
 - Select "Upload now" and then "Upload data" whenever you have Internet access to add your entry to the database.
+![Example of the current form](https://github.com/JohnAndrewTaylor/Street-Data-Collection/blob/master/Collection/Example.gif)
 
 **To view and export data:**
 - Go to the project homepage and select "View Data" (The link for the provided form is: https://five.epicollect.net/project/cavalier-manor-eco-districts/data)
