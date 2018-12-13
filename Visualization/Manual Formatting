@@ -1,0 +1,11 @@
+You may manually create a CSV file ready to be used with the QGIS software using the any data file (including the raw CSV file downloaded from the Epicollect5 site) by following these steps:
+- Open the CSV file using Microsoft Excel
+- Select any box in the first row
+- On the Home tab, click "Sort & Filter"
+- Select "Filter"
+- Next to each category, there should be a drop down menu. Select the one that is next to the category you wish to visualize
+- Uncheck the entries indicating no issue and click "OK"
+- Copy the column of adresses that have moved to the top of the document
+- Paste this into a column named "street" in a new CSV file named after the specific issue
+- Create two new columns named "city" and "state" and fill their rows with "Portsmouth" and "VA"
+- The new CSV file can now be used with QGIS
