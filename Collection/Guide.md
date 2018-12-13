@@ -19,11 +19,11 @@ Searching for it in the app will bring it up, and from there data can be collect
 - Click "Download" in the upper right corner
 - Select the CSV format and click "Download" in the left side of the screen.
 - Rename the CSV file "input" after you unzip the zipped folder download.
-- Run the sorting script in the same folder as the file. This should produce a sorted "output" file (your master CSV).
-- To enable use with the GQIS visualization software, you must execute the additional provided filtering script or manually create a new filtered file.
+- Sort the data through Excel or by running the sorting script in the same folder as the file. This should create your master CSV file
+- To enable use with the GQIS visualization software, you must execute the additional provided filtering script or manually create a new filtered file using Excel (instructions in Visualization folder).
 - You may want to clear the online database and keep an offline master file if the entries become too crowded.
 
-**To manually create a master CSV file**
+**To sort using Excel:**
 - Open the downloaded CSV file in Microsoft Excel
 - Delete the first four columns
 - Select all the data except the first row
