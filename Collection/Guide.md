@@ -18,7 +18,7 @@ Searching for it in the app will bring it up, and from there data can be collect
 - Go to the project homepage and select "View Data" (The link for the provided form is: https://five.epicollect.net/project/cavalier-manor-eco-districts/data)
 - Click "Download" in the upper right corner
 - Select the CSV format and click "Download" in the left side of the screen.
-- Rename the file "input" after the download is complete.
+- Rename the CSV file "input" after you unzip the zipped folder download.
 - Run the sorting script in the same folder as the file. This should produce a sorted "output" file.
 - To enable use with the visualization software, you must execute the additional provided scripts.
 - You may want to clear the online database and keep an offline master file if the entries become too crowded.
