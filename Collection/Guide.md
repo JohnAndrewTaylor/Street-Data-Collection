@@ -19,8 +19,19 @@ Searching for it in the app will bring it up, and from there data can be collect
 - Click "Download" in the upper right corner
 - Select the CSV format and click "Download" in the left side of the screen.
 - Rename the CSV file "input" after you unzip the zipped folder download.
-- Run the sorting script in the same folder as the file. This should produce a sorted "output" file.
+- Run the sorting script in the same folder as the file. This should produce a sorted "output" file (your master CSV).
 - To enable use with the GQIS visualization software, you must execute the additional provided filtering script or manually create a new filtered file.
 - You may want to clear the online database and keep an offline master file if the entries become too crowded.
+
+**To manually create a master CSV file**
+- Open the downloaded CSV file in Microsoft Excel
+- Delete the first four columns
+- Select all the data except the first row
+- On the Home tab, find and select "Sort & Filter"
+- Select "Sort A to Z"
+- The entries should be sorted by address now, so delete multiple entries for the same address, keeping only the most recent entry
+- On the Home tab, find and select "Find & Select"
+- Click "Replace..."
+- Replace all values of "No Issue" with 0, all "Non-Severe Issue" with 1, and "Severe Issue" with 2
 
 *Feel free to contact the team if you have any issues with these steps*
