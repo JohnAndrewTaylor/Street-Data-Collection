@@ -20,7 +20,7 @@ Searching for it in the app will bring it up, and from there data can be collect
 - Select the CSV format and click "Download" in the left side of the screen.
 - Rename the CSV file "input" after you unzip the zipped folder download.
 - Run the sorting script in the same folder as the file. This should produce a sorted "output" file.
-- To enable use with the visualization software, you must execute the additional provided scripts.
+- To enable use with the GQIS visualization software, you must execute the additional provided filtering script or manually create a new filtered file.
 - You may want to clear the online database and keep an offline master file if the entries become too crowded.
 
 *Feel free to contact the team if you have any issues with these steps*
